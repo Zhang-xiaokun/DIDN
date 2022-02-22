@@ -8,3 +8,6 @@ Datasets
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
 
 DIGINETICA: http://cikm2016.cs.iupui.edu/cikm-cup
+
+We have uploaded the preprocessed datasets to the Google Drive at 
+Please download the files and add them under the folder 'datasets'.
