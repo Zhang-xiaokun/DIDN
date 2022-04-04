@@ -1,7 +1,7 @@
 # DIDN
 This is our implementation for the paper:
 
-_Dynamic intent-aware Iterative Denoising Network for Session-based Recommendation _
+_Dynamic intent-aware Iterative Denoising Network for Session-based Recommendation_
 
 at _Information Processing & Managament (IPM) 2022_, 
 
